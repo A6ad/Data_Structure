@@ -1,33 +1,61 @@
 #include <bits/stdc++.h>
 using namespace std;
-int pop_back()
+class mystack
 {
-    queue<int>q2;
-    int val;
-    while(!q.empty())
+public:
+    queue<int> q;
+    mystack()
     {
-        val = q.front;
-        q.pop();
-        if(q.empty()==true)
-        {
-            break;
-        }
-        q2.push()
     }
-}
-int main() {
+    void push(int x)
+    {
+        q.push(x);
+    }
+    int pop()
+    {
+        queue<int> q2;
+        int val;
+        while (!q.empty())
+        {
+            val = q.front();
+            q.pop();
+            if (q.empty())
+            {
+               break;
+            }
+            q2.push(val);
+        }
+        q = q2;
+        return val;
+    }
+    int top()
+    {
+        return q.back();
+    }
+    bool empty()
+    {
+        return q.empty();
+    }
+};
+
+int main()
+{
     queue<int> q;
     int n;
-    cin>>n;
-    for(int i=0;i<n;i++)
+    cin >> n;
+    for (int i = 0; i < n; i++)
     {
         int val;
-        cin>>val;
+        cin >> val;
         q.push(val);
     }
-    while(!q.empty())
+    
+    //q.pop();
+
+
+    while (!q.empty())
     {
-        cout<<q.front()<<endl;
+        cout << q.front() << endl;
         q.pop();
-    }                  
+    }
 }

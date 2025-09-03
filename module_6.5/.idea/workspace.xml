@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="142092bc-a55d-41d9-b868-3361e034b117" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment1/get_prefix_sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1/get_prefix_sum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment1/get_prefix_sum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1/get_prefix_sum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binary_search.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../binary_search.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_1/linearithmetic_complexity.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_1/linearithmetic_complexity.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_10/stl_list.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_10/stl_list.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_13(stack)/stack_input_output.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../module_13(stack)/stack_input_output.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_14(queue)/impliment_stack_using_queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../module_14(queue)/impliment_stack_using_queue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_17(binary_tree)/inorder_traversal.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_17(binary_tree)/inorder_traversal.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_17(binary_tree)/post_order_traversal.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_17(binary_tree)/post_order_traversal.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_18(level_order)/count_nodes_in_a_binary_tree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../module_18(level_order)/count_nodes_in_a_binary_tree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_18(level_order)/level_order_traversal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../module_18(level_order)/level_order_traversal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_18(level_order)/level_order_traversal.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_18(level_order)/level_order_traversal.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_3/Y_Range_sum_query.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../module_3/Y_Range_sum_query.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_3/binary_search.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../module_3/binary_search.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_5/creating_a_node.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_5/creating_a_node.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_problem1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/practice_problem1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/problem2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_6/input_a_link_list.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_6/input_a_link_list.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_6/insert_at_any_position.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../module_6/insert_at_any_position.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_6/insert_at_any_position.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../module_6/insert_at_any_position.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/binary_search.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../output/binary_search.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/linear_complexity.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tawhid.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tawhid.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempCodeRunnerFile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../tempCodeRunnerFile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../varsity_lecture/assignment_operator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../varsity_lecture/assignment_operator.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30Scbadd1kFYInDfUeD2ITozco1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142092bc-a55d-41d9-b868-3361e034b117" name="Changes" comment="" />
+      <created>1753624490297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753624490297</updated>
+      <workItem from="1753624493366" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

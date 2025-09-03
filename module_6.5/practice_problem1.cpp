@@ -28,7 +28,7 @@ int main() {
     node* tail = NULL;
 
     int val;
-    int count =0;
+    int count = 0;
     while(true){
         cin>>val;
         if(val == -1)

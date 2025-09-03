@@ -28,7 +28,9 @@ void level_order(node* root)
         node* f = q.front();
         q.pop();
         //2. oi node ke niye kaj
-           cout<<f->val<<" ";    
+           cout<<f->val<<" ";
+           
+               
         //3. chiildren push kora
         if(f->left != NULL)
            q.push(f->left);

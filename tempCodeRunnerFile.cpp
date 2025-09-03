@@ -22,6 +22,6 @@ for(int i=0;i<sz;i++)
             cout<<x<<" ";
         }          
         for(int x : li){
-            coutM<<" x";
+            cout<<" x";
         }
 }

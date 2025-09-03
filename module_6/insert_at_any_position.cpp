@@ -16,20 +16,23 @@ void insert_at_any(node* &head,node* &tail,int idx,int val)
 {
     node* newnode= new node(val);
     node* tmp = head;
-    for(int i=1;i<idx;i++)
+    for(int i=0;i<idx-1;i++)	//first er ta already head a ase
     {
         tmp = tmp->next;
     }
+
     newnode->next = tmp->next;
     tmp->next = newnode;
+
     if(tmp->next == NULL)
-    {   tail = newnode;
+    {  
+        tail = newnode;
         return;
     }
 }
 void print_linklist(node* head)
 {
-      node* temp = head;
+    node* temp = head;
     while(temp != NULL)
     {
         cout<<temp->val<<endl;

@@ -40,6 +40,7 @@ for(int i=0;i<n;i++)
     cout<<st.top()<<endl;
     st.pop();
    }         
+   
 }
 /*input :
 5
